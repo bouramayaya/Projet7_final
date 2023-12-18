@@ -17,7 +17,7 @@ import dash_bootstrap_components as dbc
 
 
 # URL de l'API
-API_URL = 'http://16.170.245.103:8000/' #'http://127.0.0.1:8000/'  # "http://3.84.177.36:8000/"  # Remplacez par votre URL d'API
+API_URL = 'http://127.0.0.1:8000/'  # "http://3.84.177.36:8000/"  # Remplacez par votre URL d'API
 
 # ------------------------------------------------------------------------------------------------------------
 # Chargement du modèle et des données
